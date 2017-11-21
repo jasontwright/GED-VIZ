@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '~> 3.2.22'
 gem 'haml'
-gem 'mysql2', '0.3.10'
+gem 'mysql2', '0.4.10'
 
 # Needs to be outside of assets group because it’s needed in production
 # Use a patched version with an updated r.js file
